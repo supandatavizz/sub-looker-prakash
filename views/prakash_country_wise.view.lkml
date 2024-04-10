@@ -4,7 +4,7 @@ view: prakash_country_wise {
   # to be used for all fields in this view.
   sql_table_name: `PRAKASH_DATASET.PRAKASH_COUNTRY_WISE` ;;
 
-  # No primary key is defined for this view. In order to join this view in an Explore,
+  # No primary key is defined for this view. In order to join this view,
   # define primary_key: yes on a dimension that has no repeated values.
 
     # Here's what a typical dimension looks like in LookML.
